@@ -1,0 +1,12 @@
+ {
+  "apps": [
+    {
+      "name": "talkie_bot",
+      "cwd": "/root/talkie_bot/talkie_bot",
+      "args": "runserver",
+      "script": "manage.py",
+      "exec_mode": "fork",
+      "exec_interpreter": "python"
+    }
+  ]
+}
