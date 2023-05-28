@@ -36,14 +36,10 @@ $ python -m pip install --upgrade pip
 $ pip install -r requirements.txt
 ```
 
-6. Выполните миграции:
-```
-$ python manage.py migrate
-```
 
-7. Запустите проект:
+6. Запустите проект:
 ```
-$ python manage.py runserver
+$ python gpt_chat.py
 ```
 
 ### *Затестить бота прямо сейчас можно по адресу:*
